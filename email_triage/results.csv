@@ -1,0 +1,11 @@
+subject,sender,pred_priority,pred_category,true_priority,true_category,correct
+Urgent: Project deadline moved,manager@company.com,High,Work,High,Work,True
+Dinner tonight?,friend@example.com,Medium,Personal,Medium,Personal,True
+"Congratulations, you won a prize!",promo@spammy.com,Medium,Spam,Low,Spam,False
+Meeting request: project kickoff,colleague@company.com,Medium,Work,High,Work,False
+Weekly newsletter,newsletter@service.com,Medium,Personal,Low,Spam,False
+Mom's birthday next week,family@example.com,Medium,Personal,Medium,Personal,True
+Invoice overdue,billing@vendor.com,High,Work,High,Work,True
+Limited time sale,deals@shop.com,Medium,Spam,Low,Spam,False
+Catch up call?,oldfriend@example.com,Medium,Personal,Medium,Personal,True
+ASAP: server down,ops@company.com,High,Personal,High,Work,False
